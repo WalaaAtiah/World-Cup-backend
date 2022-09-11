@@ -1,0 +1,205 @@
+[
+  {
+    "Group": [
+      {
+        "id": "A1",
+        "country": "Qatar",
+        "flag": "https://countryflagsapi.com/png/Qatar"
+      },
+      {
+        "id": "A2",
+        "country": "Ecuador",
+        "flag": "https://countryflagsapi.com/png/Ecuador"
+      },
+      {
+        "id": "A3",
+        "country": "Senegal",
+        "flag": "https://countryflagsapi.com/png/Senegal"
+      },
+      {
+        "id": "A4",
+        "country": "Netherlands",
+        "flag": "https://countryflagsapi.com/png/Netherlands"
+      }
+    ],
+    "groupName": "GroupA"
+  },
+  {
+    "Group": [
+      {
+        "id": "B1",
+        "country": "England",
+        "flag": "https://countryflagsapi.com/png/England"
+      },
+      {
+        "id": "B2",
+        "country": "IR Iran",
+        "flag": "https://countryflagsapi.com/png/IR"
+      },
+      {
+        "id": "B3",
+        "country": "USA",
+        "flag": "https://countryflagsapi.com/png/USA"
+      },
+      {
+        "id": "B4",
+        "country": "Wales",
+        "flag": "https://countryflagsapi.com/png/Wales"
+      }
+    ],
+    "groupName": "GroupB"
+  },
+  {
+    "Group": [
+      {
+        "id": "C1",
+        "country": "Argentina",
+        "flag": "https://countryflagsapi.com/png/Argentina"
+      },
+      {
+        "id": "C2",
+        "country": "Saudi Arabia",
+        "flag": "https://countryflagsapi.com/png/sa"
+      },
+      {
+        "id": "C3",
+        "country": "Mexico",
+        "flag": "https://countryflagsapi.com/png/Mexico"
+      },
+      {
+        "id": "C4",
+        "country": "Poland",
+        "flag": "https://countryflagsapi.com/png/Poland"
+      }
+    ],
+    "groupName": "GroupC"
+  },
+
+  {
+    "Group": [
+      {
+        "id": "D1",
+        "country": "France",
+        "flag": "https://countryflagsapi.com/png/France"
+      },
+      {
+        "id": "D2",
+        "country": "Denmark",
+        "flag": "https://countryflagsapi.com/png/Denmark"
+      },
+      {
+        "id": "D3",
+        "country": "Tunisia",
+        "flag": "https://countryflagsapi.com/png/Tunisia"
+      },
+      {
+        "id": "D4",
+        "country": "Australia",
+        "flag": "https://countryflagsapi.com/png/Australia"
+      }
+    ],
+    "groupName": "GroupD"
+  },
+  {
+    "Group": [
+      {
+        "id": "E1",
+        "country": "Spain",
+        "flag": "https://countryflagsapi.com/png/Spain"
+      },
+      {
+        "id": "E2",
+        "country": "Germany",
+        "flag": "https://countryflagsapi.com/png/Germany"
+      },
+      {
+        "id": "E3",
+        "country": "Japan",
+        "flag": "https://countryflagsapi.com/png/Japan"
+      },
+      {
+        "id": "E4",
+        "country": "Costa Rica",
+        "flag": "https://countryflagsapi.com/png/cr"
+      }
+    ],
+    "groupName": "GroupE"
+  },
+
+  {
+    "Group": [
+      {
+        "id": "F1",
+        "country": "Belgium",
+        "flag": "https://countryflagsapi.com/png/Belgium"
+      },
+      {
+        "id": "F2",
+        "country": "Canada",
+        "flag": "https://countryflagsapi.com/png/Canada"
+      },
+      {
+        "id": "F3",
+        "country": "Morocco",
+        "flag": "https://countryflagsapi.com/png/Morocco"
+      },
+      {
+        "id": "F4",
+        "country": "Croatia",
+        "flag": "https://countryflagsapi.com/png/Croatia"
+      }
+    ],
+    "groupName": "GroupF"
+  },
+
+  {
+    "Group": [
+      {
+        "id": "G1",
+        "country": "Brazil",
+        "flag": "https://countryflagsapi.com/png/Brazil"
+      },
+      {
+        "id": "G2",
+        "country": "Serbia",
+        "flag": "https://countryflagsapi.com/png/Serbia"
+      },
+      {
+        "id": "G3",
+        "country": "Switzerland",
+        "flag": "https://countryflagsapi.com/png/Switzerland"
+      },
+      {
+        "id": "G4",
+        "country": "Cameroon",
+        "flag": "https://countryflagsapi.com/png/Cameroon"
+      }
+    ],
+    "groupName": "GroupG"
+  },
+  {
+    "Group": [
+      {
+        "id": "H1",
+        "country": "Portugal",
+        "flag": "https://countryflagsapi.com/png/Portugal"
+      },
+      {
+        "id": "H2",
+        "country": "Ghana",
+        "flag": "https://countryflagsapi.com/png/Ghana"
+      },
+      {
+        "id": "H3",
+        "country": "Uruguay",
+        "flag": "https://countryflagsapi.com/png/Uruguay"
+      },
+      {
+        "id": "H4",
+        "country": "Korea Republic",
+        "flag": "https://countryflagsapi.com/png/kr"
+      }
+    ],
+    "groupName": "GroupH"
+  }
+]
