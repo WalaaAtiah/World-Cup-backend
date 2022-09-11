@@ -1,15 +1,13 @@
+/* eslint-disable no-undef */
 "use strict";
-const mongoose = require("mongoose");
+// const commentSchema = new mongoose.Schema({
+//   name: String,
+//   picture: String,
+//   comment: String
 
-const WorldCupSchema = new mongoose.Schema({
-  name: String,
-  description: String,
-  avatar: String,
-  status: String,
-  email:String,
-});
+// });
 
-const WorldCup = mongoose.model("Cup", WorldCupSchema);
+// const commentModel = mongoose.model('comment', commentSchema);
 
-module.exports=WorldCup 
-// seedData
+// module.exports=commentModel 
+// seedData();
