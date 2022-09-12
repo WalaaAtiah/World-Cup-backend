@@ -29,5 +29,5 @@ async function seedData() {
   }
 
 
-  let Data=seedData()
+  // let Data=seedData()
   module.exports=Data

@@ -1,5 +1,8 @@
+
+
 "use strict";
-const mongoose = require("mongoose");
+
+// const mongoose = require("mongoose");
 console.log(`${process.env.mongodb_url}`)
 const WorldCupSchema = new mongoose.Schema({
   name: String,
