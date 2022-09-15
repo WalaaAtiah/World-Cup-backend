@@ -24,8 +24,7 @@ const dupdatecomentHandler=require("./components/dupdatecomentHandler")
 //   useNewUrlParser: true,
 //   useUnifiedTopology: true,
 // });
-mongoose.connect('mongodb://amani:1234@ac-aoywxa3-shard-00-00.sbeludz.mongodb.net:27017,ac-aoywxa3-shard-00-01.sbeludz.mongodb.net:27017,
-ac-aoywxa3-shard-00-02.sbeludz.mongodb.net:27017/?ssl=true&replicaSet=atlas-xs85kn-shard-0&authSource=admin&retryWrites=true&w=majority', {
+mongoose.connect(`${process.env.mongodb_url}`, {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 });
